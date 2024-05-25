@@ -1,0 +1,32 @@
+https://gist.github.com/marclamberti/f45f872dea4dfd3eaa015a4a1af4b39b
+https://security.google.com/settings/security/apppasswords
+ehgo ffti zlce womz
+
+forex api conn
+Conn Id: slack_conn
+Conn Type: HTTP
+Host: https://gist.github.com/
+Extra: {"webhook_token": "T074LUF7V2A/B074D2RBV2B/pL01gFcxjUXGRuoOXqhst7XE"}
+
+
+
+slack operator
+Conn Id: slack_conn
+Conn Type: HTTP
+Host: hooks.slack.com
+Extra: {"webhook_token": "T074LUF7V2A/B074D2RBV2B/pL01gFcxjUXGRuoOXqhst7XE"}
+
+spark operator
+Conn Id: spark_conn
+Conn Type: spark
+Host: spark://spark-master
+port:   7077
+
+hive operator
+Conn Id: hive_conn
+Conn Type: hive server 2
+Host: hive-server
+user: hive
+password: hive
+port: 10000
+
